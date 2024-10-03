@@ -1,7 +1,7 @@
 created using SwiftUI, credit to Paul Hudson's 100 days of SwitfUI for inspiration.<br />
 games shows a 8 letter random word from a txt file imported.<br />
-nasks the user to make different words out of it.<br /> 
-nuses UITextChecker from UIKit to validate words.<br /> 
+asks the user to make different words out of it.<br /> 
+uses UITextChecker from UIKit to validate words.<br /> 
 
 ![startingScreen](https://github.com/user-attachments/assets/b02476e6-1406-4287-a079-bebe7082958d)
 ![points](https://github.com/user-attachments/assets/84682e9f-df79-45dc-b83f-23369c8784b6)
