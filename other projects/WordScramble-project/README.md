@@ -3,7 +3,7 @@ games shows a 8 letter random word from a txt file imported.<br />
 nasks the user to make different words out of it.<br /> 
 nuses UITextChecker from UIKit to validate words.<br /> 
 
-![startingScreen](https://github.com/user-attachments/assets/b02476e6-1406-4287-a079-bebe7082958d)
+![startingScreen](https://github.com/user-attachments/assets/b02476e6-1406-4287-a079-bebe7082958d =640x640)
 ![points](https://github.com/user-attachments/assets/84682e9f-df79-45dc-b83f-23369c8784b6)
 ![error5](https://github.com/user-attachments/assets/8473a1d6-0b08-484a-af91-f88245c4c02f)
 ![error4](https://github.com/user-attachments/assets/519fd67b-fcad-4d18-ab0d-f5c930744710)
