@@ -2,7 +2,7 @@ created using SwiftUI, credit to Paul Hudson's 100 days of SwitfUI for inspirati
 app shows all of the apollo missions from a json file.<br/>
 when a mission is clicked it'll navigate to a new view showing detailed info of the mission<br/>
 mission view will also provide a section for the astronauts who took part of that mission<br/> 
-and when clicked navigatie to a new view showing detailed info of the astronaut.<br/>
+and when clicked navigatie to a new view showing detailed info of the astronaut from another json file.<br/>
 <br/>
 ![main-screen](https://github.com/user-attachments/assets/a9061427-8cd2-4f49-aaa7-f244e8b135d7)
 <br/>
