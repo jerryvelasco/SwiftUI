@@ -5,4 +5,5 @@ provides a detail screen for each friend.<br/>
 uses SwiftData so that friends can be viewed offline.<br/>
 <br/>
 
-![simulator](https://github.com/user-attachments/assets/7a81a0c3-cae0-470b-9dcc-3fa95ec6fee8)
+![simulator](https://github.com/user-attachments/assets/f5fc5222-7898-4ded-b3dd-f88263383e95)
+
